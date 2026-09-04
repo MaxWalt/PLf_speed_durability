@@ -12,6 +12,6 @@ WA_SB_best_PL, results_PL_WA_SB, and results_PL_WA_SB_unnested are big athletes 
 ## Scripts
 `PL_computation_WA` : used to compute the PL parameters databased (WA_SB_best_PL, results_PL_WA_SB, and results_PL_WA_SB_unnested). Final databases join, script attached as informative.
 
-`PLf_speed_durability` : main analysis script
+`PLf_speed_durability` : main analyses script
 
-`PLf_speed_durability_APPENDIX` : appendix analysis
+`PLf_speed_durability_APPENDIX` : appendix analyses
