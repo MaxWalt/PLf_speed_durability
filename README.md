@@ -10,3 +10,8 @@ Pacing_splits_PHD_800m and Pacing_splits_PHD_1500m contain the 100m section time
 WA_SB_best_PL, results_PL_WA_SB, and results_PL_WA_SB_unnested are big athletes databases that retrieve: SBs, PL parameters and PL predictions respectively.
 
 ## Scripts
+`PL_computation_WA` : used to compute the PL parameters databased (WA_SB_best_PL, results_PL_WA_SB, and results_PL_WA_SB_unnested). Final databases join, script attached as informative.
+
+`PLf_speed_durability` : main analysis script
+
+`PLf_speed_durability_APPENDIX` : appendix analysis
