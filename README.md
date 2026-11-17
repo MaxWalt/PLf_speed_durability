@@ -1,7 +1,7 @@
 ## PLf_speed_durability
-Quantify real-time speed durability during elite 800-1500m races and examines how durability, risk-taking, and racing context interact to determine performance.
+Quantify real-time speed durability and examine how fresh speed, speed durability and positioning correlate with performance.
 
-_The full code and dataset are part of a Submission in International Journal of Sports Science (IJSPP.2026-0263), for the PhD thesis of Maxime Walt._
+_The full code and dataset are part of a Submission in International Journal of Sports Physiology and Performance (IJSPP.2026-0263), for the PhD thesis of Maxime Walt._
 
 ### Data
 #### Pacing datasets
